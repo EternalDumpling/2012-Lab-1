@@ -1,3 +1,4 @@
+package c;
 public interface ElectricInterface {
     double calcMPGe();
 

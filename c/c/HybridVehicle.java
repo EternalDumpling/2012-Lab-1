@@ -1,3 +1,4 @@
+package c;
 public class HybridVehicle implements GasolineInterface, ElectricInterface{
 
     private static final double MPG_E = 33.7;
